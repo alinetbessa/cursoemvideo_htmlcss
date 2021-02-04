@@ -10,4 +10,4 @@ link to access the course: https://www.youtube.com/playlist?list=PLHz_AreHm4dkZ9
 
 es -- Este repositorio fue creado para colocar los ejercicios a realizar a lo largo del Curso completo y actual de HTML5 y CSS3 en el canal de Youtube * Curso en Video * con el Profesor Guanabara.
 
-enlace para acceder al curso:https://www.youtube.com/playlist?list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n
+enlace para acceder al curso: https://www.youtube.com/playlist?list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n
